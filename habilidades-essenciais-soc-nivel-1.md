@@ -33,7 +33,7 @@ O **Centro de Operações de Segurança (SOC)** atua na garantia da **Confidenci
 
 ---
 
-## 2. Vetores de ataque e superfície de exposição
+## 2. Vetores de ataque e superfície de exposição (uma breve revisão do conteúdo Apresentando a Equipe Azul)
 
 A triagem inicial exige a compreensão dos principais pontos de entrada utilizados por agentes maliciosos:
 
